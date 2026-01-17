@@ -68,6 +68,7 @@ The analysis focuses on answering the following questions:
 ---
 
 ## Documentation
+- Power BI report file `Sales_Analytics.pbix`
 - See `PROJECT_REPORT.md` for business questions and outcomes
 - See `GLOSSARY.md` for technical and business term definitions
 
@@ -76,4 +77,5 @@ The analysis focuses on answering the following questions:
 ## Dataset Source & License
 The dataset used in this project was obtained from an external source and is used for educational/portfolio purposes.
 This repository’s MIT License applies to my SQL scripts, documentation, and Power BI report, but **does not override the dataset’s original license**.
+
 If required, please refer to the dataset provider’s license/terms.
